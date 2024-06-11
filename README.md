@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-<p>This is based on learning and used Free API to fetch data, so it might be not 100% accurate. To get your data you can use your own API.</p>
+<p>This is based on learning and uses Free API, so it might not work 100%, especially since it may forget about the history of the chat sometimes. To get your data you can use <strong>your Own API</strong>.</p>
 <ul>
 
 
@@ -23,5 +23,6 @@
 <br>
 
 
+<img src= "https://github.com/dev-app-ali/TalkTrove-Android/assets/121374194/d6684168-0339-459b-a349-82f37c3a7554" width= "300">
 
 <br>
